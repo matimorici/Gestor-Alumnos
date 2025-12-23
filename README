@@ -1,5 +1,5 @@
 # Gestor de Alumnos
-Este repositorio contiene un programa en C# para gestionar información de alumnos, generar reportes y realizar conversiones de datos. A continuación, se detalla toda la información necesaria para trabajar con este proyecto.
+Programa en C# para gestionar información de alumnos, generar reportes y realizar conversiones de datos.
 
 ## Requisitos
 - .NET SDK 8.0 o superior
@@ -13,4 +13,5 @@ dotnet run
 - Compilar el programa:
   ```
 dotnet build
+
   ```
