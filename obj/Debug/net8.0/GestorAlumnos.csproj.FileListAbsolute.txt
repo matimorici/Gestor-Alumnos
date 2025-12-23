@@ -1,0 +1,28 @@
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\bin\Debug\net8.0\GestorAlumnos.exe
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\bin\Debug\net8.0\GestorAlumnos.deps.json
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\bin\Debug\net8.0\GestorAlumnos.runtimeconfig.json
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\bin\Debug\net8.0\GestorAlumnos.dll
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\bin\Debug\net8.0\GestorAlumnos.pdb
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\obj\Debug\net8.0\GestorAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\obj\Debug\net8.0\GestorAlumnos.AssemblyInfoInputs.cache
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\obj\Debug\net8.0\GestorAlumnos.AssemblyInfo.cs
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\obj\Debug\net8.0\GestorAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\obj\Debug\net8.0\GestorAlumnos.dll
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\obj\Debug\net8.0\refint\GestorAlumnos.dll
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\obj\Debug\net8.0\GestorAlumnos.pdb
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\obj\Debug\net8.0\GestorAlumnos.genruntimeconfig.cache
+C:\Users\Matías\Desktop\TP FINAL PED_PI 2025\obj\Debug\net8.0\ref\GestorAlumnos.dll
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\obj\Debug\net8.0\GestorAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\obj\Debug\net8.0\GestorAlumnos.AssemblyInfoInputs.cache
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\obj\Debug\net8.0\GestorAlumnos.AssemblyInfo.cs
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\obj\Debug\net8.0\GestorAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\obj\Debug\net8.0\GestorAlumnos.dll
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\obj\Debug\net8.0\refint\GestorAlumnos.dll
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\obj\Debug\net8.0\GestorAlumnos.pdb
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\bin\Debug\net8.0\GestorAlumnos.exe
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\bin\Debug\net8.0\GestorAlumnos.deps.json
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\bin\Debug\net8.0\GestorAlumnos.runtimeconfig.json
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\bin\Debug\net8.0\GestorAlumnos.dll
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\bin\Debug\net8.0\GestorAlumnos.pdb
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\obj\Debug\net8.0\GestorAlumnos.genruntimeconfig.cache
+C:\Users\Matías\Desktop\MoriciTomas_GestorAlumnos\obj\Debug\net8.0\ref\GestorAlumnos.dll

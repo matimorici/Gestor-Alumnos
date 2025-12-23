@@ -1,0 +1,82 @@
+[
+  {
+    "Legajo": "1001",
+    "Apellido": "Fontana",
+    "Nombres": "Mateo",
+    "NumeroDocumento": "40234158",
+    "Email": "mateo.fontana@gmail.com",
+    "Telefono": "1123456789"
+  },
+  {
+    "Legajo": "1002",
+    "Apellido": "Gonz\u00E1lez",
+    "Nombres": "Mar\u00EDa Laura",
+    "NumeroDocumento": "35678901",
+    "Email": "maria.gonzalez@mail.com",
+    "Telefono": "1134567890"
+  },
+  {
+    "Legajo": "1003",
+    "Apellido": "Rodr\u00EDguez",
+    "Nombres": "Carlos Andr\u00E9s",
+    "NumeroDocumento": "36789012",
+    "Email": "carlos.rodriguez@mail.com",
+    "Telefono": "1145678901"
+  },
+  {
+    "Legajo": "1004",
+    "Apellido": "L\u00F3pez",
+    "Nombres": "Mart\u00EDn Alejandro",
+    "NumeroDocumento": "38901234",
+    "Email": "martin.lopez@mail.com",
+    "Telefono": "1167890123"
+  },
+  {
+    "Legajo": "1005",
+    "Apellido": "Fern\u00E1ndez",
+    "Nombres": "Luc\u00EDa Bel\u00E9n",
+    "NumeroDocumento": "37890123",
+    "Email": "lucia.fernandez@mail.com",
+    "Telefono": "1167890123"
+  },
+  {
+    "Legajo": "1006",
+    "Apellido": "Mart\u00EDnez",
+    "Nombres": "Ana",
+    "NumeroDocumento": "39012345",
+    "Email": "ana.martinez@mail.com",
+    "Telefono": "1178901234"
+  },
+  {
+    "Legajo": "1007",
+    "Apellido": "S\u00E1nchez",
+    "Nombres": "Diego",
+    "NumeroDocumento": "40123456",
+    "Email": "diego.sanchez@mail.com",
+    "Telefono": "1189012345"
+  },
+  {
+    "Legajo": "1008",
+    "Apellido": "Romero",
+    "Nombres": "Florencia",
+    "NumeroDocumento": "41234567",
+    "Email": "florencia.romero@mail.com",
+    "Telefono": "1190123456"
+  },
+  {
+    "Legajo": "1009",
+    "Apellido": "Torres",
+    "Nombres": "Sebasti\u00E1n",
+    "NumeroDocumento": "42345678",
+    "Email": "sebastian.torres@mail.com",
+    "Telefono": "1101234567"
+  },
+  {
+    "Legajo": "1010",
+    "Apellido": "\u00C1lvarez",
+    "Nombres": "Carolina",
+    "NumeroDocumento": "43456789",
+    "Email": "carolina.alvarez@mail.com",
+    "Telefono": "1112345678"
+  }
+]

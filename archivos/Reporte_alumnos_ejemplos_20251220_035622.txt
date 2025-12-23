@@ -1,0 +1,110 @@
+========================================
+REPORTE DE ALUMNOS POR APELLIDO
+Fecha: 20/12/2025 03:56:22
+========================================
+APELLIDO: Álvarez
+----------------------------------------
+Legajo: 1010
+Nombres: Carolina
+Documento: 43456789
+Email: carolina.alvarez@mail.com
+Teléfono: 1112345678
+
+→ Subtotal 'Álvarez': 1 alumno(s)
+
+APELLIDO: Fernández
+----------------------------------------
+Legajo: 1005
+Nombres: Lucía Belén
+Documento: 37890123
+Email: lucia.fernandez@mail.com
+Teléfono: 1167890123
+
+→ Subtotal 'Fernández': 1 alumno(s)
+
+APELLIDO: González
+----------------------------------------
+Legajo: 1002
+Nombres: María Laura
+Documento: 35678901
+Email: maria.gonzalez@mail.com
+Teléfono: 1134567890
+
+→ Subtotal 'González': 1 alumno(s)
+
+APELLIDO: López
+----------------------------------------
+Legajo: 1004
+Nombres: Martín Alejandro
+Documento: 38901234
+Email: martin.lopez@mail.com
+Teléfono: 1167890123
+
+→ Subtotal 'López': 1 alumno(s)
+
+APELLIDO: Martínez
+----------------------------------------
+Legajo: 1006
+Nombres: Ana
+Documento: 39012345
+Email: ana.martinez@mail.com
+Teléfono: 1178901234
+
+→ Subtotal 'Martínez': 1 alumno(s)
+
+APELLIDO: Pérez
+----------------------------------------
+Legajo: 1001
+Nombres: Juan Manuel
+Documento: 34567890
+Email: juan.perez@mail.com
+Teléfono: 1123456789
+
+→ Subtotal 'Pérez': 1 alumno(s)
+
+APELLIDO: Rodríguez
+----------------------------------------
+Legajo: 1003
+Nombres: Carlos Andrés
+Documento: 36789012
+Email: carlos.rodriguez@mail.com
+Teléfono: 1145678901
+
+→ Subtotal 'Rodríguez': 1 alumno(s)
+
+APELLIDO: Romero
+----------------------------------------
+Legajo: 1008
+Nombres: Florencia
+Documento: 41234567
+Email: florencia.romero@mail.com
+Teléfono: 1190123456
+
+→ Subtotal 'Romero': 1 alumno(s)
+
+APELLIDO: Sánchez
+----------------------------------------
+Legajo: 1007
+Nombres: Diego
+Documento: 40123456
+Email: diego.sanchez@mail.com
+Teléfono: 1189012345
+
+→ Subtotal 'Sánchez': 1 alumno(s)
+
+APELLIDO: Torres
+----------------------------------------
+Legajo: 1009
+Nombres: Sebastián
+Documento: 42345678
+Email: sebastian.torres@mail.com
+Teléfono: 1101234567
+
+→ Subtotal 'Torres': 1 alumno(s)
+
+========================================
+RESUMEN GENERAL
+========================================
+Total de Apellidos diferentes: 10
+Total de alumnos registrados: 10
+========================================

@@ -1,0 +1,10 @@
+1001|Pérez|Juan Manuel|34567890|juan.perez@mail.com|1123456789
+1002|González|María Laura|35678901|maria.gonzalez@mail.com|1134567890
+1003|Rodríguez|Carlos Andrés|36789012|carlos.rodriguez@mail.com|1145678901
+1004|López|Martín Alejandro|38901234|martin.lopez@mail.com|1167890123
+1005|Fernández|Lucía Belén|37890123|lucia.fernandez@mail.com|1167890123
+1006|Martínez|Ana|39012345|ana.martinez@mail.com|1178901234
+1007|Sánchez|Diego|40123456|diego.sanchez@mail.com|1189012345
+1008|Romero|Florencia|41234567|florencia.romero@mail.com|1190123456
+1009|Torres|Sebastián|42345678|sebastian.torres@mail.com|1101234567
+1010|Álvarez|Carolina|43456789|carolina.alvarez@mail.com|1112345678
