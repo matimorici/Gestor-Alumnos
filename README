@@ -6,12 +6,9 @@ Programa en C# para gestionar información de alumnos, generar reportes y realiz
 - Un editor de texto o IDE compatible con C#, como Visual Studio o Visual Studio Code
 
 ## Comandos Útiles
-- Ejecutar el programa:
-  ```
-dotnet run
-  ```
-- Compilar el programa:
-  ```
-dotnet build
+- Ejecutar el programa:  dotnet run
 
-  ```
+- Compilar el programa:  dotnet build
+
+
+
